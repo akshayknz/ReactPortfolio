@@ -22,7 +22,7 @@ const About = () => {
   return (
     <div>
       <h1>About US</h1>
-      <p>About US page body content</p>
+      <p>About US page body contentYo baby</p>
       <motion.div className="single" initial="exit" animate="enter" exit="exit">
         <motion.img
           variants={imageVariants}
